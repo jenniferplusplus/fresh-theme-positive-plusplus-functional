@@ -25,7 +25,7 @@ a {
 }
 
 a:visited {
-  color: #7B0796;
+  /*color: paleturquoise;*/
 }
 
 a:hover {
@@ -64,7 +64,7 @@ table {
 
 td:first-child {
   letter-spacing: 2px;
-  color: #bd5b5b;
+  color: darkturquoise;
   font-size: 1.35rem;
 }
 
@@ -146,7 +146,7 @@ p, li {
 
 span.keywords {
   font-size: 12px;
-  color: #B16666;
+  color: paleturquoise;
 }
 
 thead {
@@ -209,7 +209,7 @@ header > span.fa {
 }
 
 #references > p, #references > p > a {
-  color: #961e1e;
+  color: turquoise;
   text-align: center;
   margin: 30px;
   font-weight: bold;
