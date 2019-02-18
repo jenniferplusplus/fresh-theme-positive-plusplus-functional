@@ -8,7 +8,8 @@
     "md": "basis"
   },
   "colors": {
-    "hyperlink": "40E0D0"
+    "hyperlink": "40E0D0",
+    "accent": "00ced1"
   },
   "fonts": {
     "all": {

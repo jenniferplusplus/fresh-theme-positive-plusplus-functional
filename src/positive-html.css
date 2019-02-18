@@ -64,7 +64,7 @@ table {
 
 td:first-child {
   letter-spacing: 2px;
-  color: darkturquoise;
+  color: #{{color 'accent'}};
   font-size: 1.35rem;
 }
 
@@ -146,7 +146,15 @@ p, li {
 
 span.keywords {
   font-size: 12px;
-  color: paleturquoise;
+  color: #{{color 'accent'}};
+  padding: 6px 6px;
+}
+
+span.keyword-bubble {
+  background-color: #F5F5F5;
+  border-radius: 6px;
+  padding: 4px 6px;
+  margin-right: 3px;
 }
 
 thead {
