@@ -1,6 +1,6 @@
 {
   "name": "fresh-theme-positive-plusplus",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A more professional and more configurable version of the standard FRESH Positive theme.",
   "main": "theme.json",
   "scripts": {
