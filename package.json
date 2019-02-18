@@ -1,7 +1,7 @@
 {
   "name": "fresh-theme-positive-plusplus",
   "version": "0.2.0",
-  "description": "A more professional and more configurable version of the standard FRESH Positive theme.",
+  "description": "A more professional, more readable, and more configurable version of the standard FRESH Positive theme.",
   "main": "theme.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
