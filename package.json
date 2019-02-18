@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fresh-standard/fresh-theme-positive.git"
+    "url": "git@github.com:jenniferplusplus/fresh-theme-positive-plusplus.git"
   },
   "keywords": [
     "resume",
@@ -22,9 +22,10 @@
     "career"
   ],
   "author": "Mackey James <hacksalot@indevious.com> (https://indevious.com)",
+  "contributors": ["Jennifer Moore <jenniferplusplus@gmail.com> (https://jenniferplusplus.com)"],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fresh-standard/fresh-theme-positive/issues"
+    "url": "https://github.com/jenniferplusplus/fresh-theme-positive-plusplus/issues"
   },
-  "homepage": "https://github.com/fresh-standard/fresh-theme-positive#readme"
+  "homepage": "https://github.com/jenniferplusplus/fresh-theme-positive-plusplus"
 }
