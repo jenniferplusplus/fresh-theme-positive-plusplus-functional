@@ -1,7 +1,7 @@
 {
-  "name": "fresh-theme-positive",
+  "name": "fresh-theme-positive-plusplus",
   "version": "0.1.0",
-  "description": "A dynamic two-color FRESH resume theme for technical professionals.",
+  "description": "A more professional and more configurable version of the standard FRESH Positive theme.",
   "main": "theme.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
