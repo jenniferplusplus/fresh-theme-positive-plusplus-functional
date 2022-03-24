@@ -1,5 +1,5 @@
 {
-  "name": "fresh-theme-positive-plusplus",
+  "name": "fresh-theme-positive-plusplus-functional",
   "version": "0.2.0",
   "description": "A more professional, more readable, and more configurable version of the standard FRESH Positive theme.",
   "main": "theme.json",
@@ -22,7 +22,9 @@
     "career"
   ],
   "author": "Mackey James <hacksalot@indevious.com> (https://indevious.com)",
-  "contributors": ["Jennifer Moore <jenniferplusplus@gmail.com> (https://jenniferplusplus.com)"],
+  "contributors": [
+    "Jennifer Moore <jenniferplusplus@gmail.com> (https://jenniferplusplus.com)"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jenniferplusplus/fresh-theme-positive-plusplus/issues"

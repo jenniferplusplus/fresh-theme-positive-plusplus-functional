@@ -1,0 +1,29 @@
+{{#section "projects"}}
+    <hr>
+    <section id="projects">
+        {{#> header-projects }}
+            {{> header-icon _title="PROJECTS" _section="projects" _hdricon=(lookup . '_icon') }}
+        {{/header-projects}}
+        {{#each r.projects}}
+            {{#> body-project }}
+                <div>
+                    <h3>
+                        {{#if url }}
+                            <a href="{{{ url }}}">{{ title }}</a>,
+                        {{else}}
+                            {{ title }},
+                        {{/if}}
+                        <em>{{ role }} ({{ category }})</em>
+                    </h3>
+
+                    {{#if keywords}}<p><span class="keywords">
+                        {{#each keywords}}<span class="keyword-bubble">{{{ this }}}</span>{{/each}}
+                    </span></p>{{/if}}
+                    <em><p>{{{ description }}}</p></em>
+                    <p>{{{ summary }}}</p>
+                    {{> highlights }}
+                </div>
+            {{/body-project}}
+        {{/each}}
+    </section>
+{{/section}}

@@ -8,11 +8,11 @@ html, body, main, section, header, ul, p, h1, h2, h3 {
 
 ::selection {
   color: #fff;
-  background: #e48a8a; /* WebKit/Blink Browsers */
+  background: #{{color 'accent'}}; /* WebKit/Blink Browsers */
 }
 ::-moz-selection {
   color: #fff;
-  background: #e48a8a; /* Gecko Browsers */
+  background: #{{color 'accent'}}; /* Gecko Browsers */
 }
 
 p::selection {
@@ -34,7 +34,7 @@ a:hover {
 
 h1 {
   text-transform: uppercase;
-  font-size:
+  /*font-size:*/
 }
 
 h2 {
